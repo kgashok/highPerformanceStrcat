@@ -1,3 +1,5 @@
 .ccls-cache/
 .git/
 .o
+main
+test
