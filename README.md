@@ -38,4 +38,4 @@ You can cut-and-paste the above code into your ```solution.c``` file in case you
 Good luck! 
 
 # On Github
-- pushed to github
+- You can also find this on Github at https://github.com/kgashok/highPerformanceStrcat
