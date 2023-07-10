@@ -36,3 +36,6 @@ You can cut-and-paste the above code into your ```solution.c``` file in case you
 3. Modify the code you have from Step 2 to make it more high performant.
 
 Good luck! 
+
+# On Github
+- pushed to github
