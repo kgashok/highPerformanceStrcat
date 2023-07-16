@@ -21,6 +21,14 @@ char *mystrcat (char *target, char *source, int std) {
     }
 }
 
+
+
+/*********************************************/
+/* You shouldn't be modifying anything below */
+/* But definitely be curious as to what the  */
+/* the code does below                       */
+/*********************************************/
+
 #define STRING_SIZE 100000
 #define ARRAY_SIZE  5000
 
